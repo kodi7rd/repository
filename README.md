@@ -2,4 +2,4 @@
 
 # Download from source:
 
-https://kodirealdebridisrael.github.io/repository
+https://kodirealdebridisrael.github.io/
