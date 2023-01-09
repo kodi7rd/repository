@@ -159,7 +159,11 @@
 		<summary lang="en">Keyboard map for subtitles</summary>
 		<language>en</language>
 		<description lang="en">Keyboard map for subtitles</description>
-		 <platform>all</platform>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.png</fanart>
+		</assets>
 	  </extension>
 	</addon>
 	<addon id="service.subtitles.All_Subs_Flash" name="All Subs Flash" version="2.5.3c" provider-name="Sbs">
