@@ -81,7 +81,7 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
-	<addon id="plugin.program.autocompletion1" name="AutoCompletion for virtual keyboard" version="1.0.2" provider-name="Philipp Temminghoff (phil65)">
+	<addon id="plugin.program.autocompletion" name="AutoCompletion for virtual keyboard" version="1.0.1" provider-name="Philipp Temminghoff (phil65)">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0"/>-->
 			<import addon="script.module.autocompletion" version="1.0.0"/>
@@ -102,6 +102,23 @@
 				<!--            <screenshot>resources/screenshot-01.jpg</screenshot>-->
 				<!--            <screenshot>resources/screenshot-02.jpg</screenshot>-->
 				<!--            <screenshot>resources/screenshot-03.jpg</screenshot>-->
+			</assets>
+		</extension>
+	</addon>
+	<addon id="script.module.autocompletion" name="AutoCompletion library" version="2.1.1" provider-name="Philipp Temminghoff (phil65), bbaronSVK, finkleandeinhorn, berkhornet">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0" />
+			<import addon="script.module.requests" version="2.9.1"/>
+		</requires>
+		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">Module providing some AutoCompletion functions</summary>
+			<description lang="en_GB">Module providing some AutoCompletion functions</description>
+			<platform>all</platform>
+			<license>GPL-2.0-or-later</license>
+			<source>https://github.com/finkleandeinhorn/script.module.autocompletion</source>
+			<assets>
+				<icon>icon.png</icon>
 			</assets>
 		</extension>
 	</addon>
