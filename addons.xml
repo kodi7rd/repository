@@ -81,7 +81,7 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
-	<addon id="plugin.program.autocompletion" name="AutoCompletion for virtual keyboard" version="1.0.1" provider-name="Philipp Temminghoff (phil65)">
+	<addon id="plugin.program.autocompletion1" name="AutoCompletion for virtual keyboard" version="1.0.2" provider-name="Philipp Temminghoff (phil65)">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0"/>-->
 			<import addon="script.module.autocompletion" version="1.0.0"/>
