@@ -20,7 +20,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR blue]Kodi + Real Debrid Israel Build Wizard[/COLOR]" version="2.0.1" provider-name="KodiRealDebridIsrael">
+	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR blue]Kodi + Real Debrid Israel Build Wizard[/COLOR]" version="2.0.2" provider-name="KodiRealDebridIsrael">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" />
@@ -37,7 +37,7 @@
 		
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">[COLOR blue]Kodi + Real Debrid Israel Build Wizard[/COLOR]</summary>
-			<description lang="en">[COLOR blue]Kodi + Real Debrid Israel Build Wizard[/COLOR]</description>
+			<description lang="en">[COLOR blue]Kodi + Real Debrid Israel Build Wizard BAR REPO 2.0.2[/COLOR]</description>
 			<platform>all</platform>
 			<reuselanguageinvoker>false</reuselanguageinvoker>
 			<source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
