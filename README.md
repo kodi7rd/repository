@@ -1,5 +1,5 @@
 # Kodi + Real Debrid Israel Repository
 
-# Download from source:
+# File Manager > Add Source:
 
 https://kodi7rd.github.io/repository
