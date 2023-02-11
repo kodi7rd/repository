@@ -20,7 +20,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR blue]Kodi + Real Debrid Israel Wizard[/COLOR]" version="1.0.0" provider-name="KodiRealDebridIsrael">
+	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR yellow]Kodi + Real Debrid Israel Wizard[/COLOR]" version="1.0.0" provider-name="KodiRealDebridIsrael">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" />
@@ -45,7 +45,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.program.kodirealdebridisraelguides" name="[COLOR yellow]Kodi + Real Debrid Israel Guides[/COLOR]" version="1.0.0" provider-name="KodiRealDebridIsrael">
+	<addon id="plugin.program.kodirealdebridisraelguides" name="[COLOR limegreen]Kodi + Real Debrid Israel Guides[/COLOR]" version="1.0.0" provider-name="KodiRealDebridIsrael">
 		<extension point="xbmc.python.script" library="main.py"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">[COLOR yellow]Kodi + Real Debrid Israel Guides[/COLOR]</summary>
