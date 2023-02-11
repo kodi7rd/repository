@@ -20,7 +20,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR blue]TEST REPO - Kodi + Real Debrid Israel Wizard[/COLOR]" version="1.0.5" provider-name="KodiRealDebridIsrael">
+	<addon id="plugin.program.kodirealdebridisraelwizard" name="[COLOR blue]TEST REPO - Kodi + Real Debrid Israel Wizard[/COLOR]" version="1.0.6" provider-name="KodiRealDebridIsrael">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" />
