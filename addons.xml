@@ -123,14 +123,14 @@
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	  </extension>
 	</addon>
-	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="3.0.8" provider-name="Sbs">
+	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="3.0.9" provider-name="Sbs">
 	  <requires>
 		
 		<import addon="script.module.requests" version="2.9.1" />
 		<import addon="script.module.chardet" />
 		
 	  </requires>
-	  <extension point="xbmc.subtitle.module" library="service.py"  start="startup"></extension>
+	  <extension point="xbmc.subtitle.module" library="start.py"  start="startup"></extension>
 	  <extension point="xbmc.service" library="autosub.py"/>
 	  <extension point="xbmc.addon.metadata">
 		<reuselanguageinvoker>true</reuselanguageinvoker>
@@ -145,7 +145,7 @@
 	  </extension>
 	  <extension point="kodi.context.item" library="check_sub.py">
 			<item>
-				<label>בדוק אם קיימת כתובית</label>
+				<label>[COLOR yellow][B]חפש כתוביות[/B][/COLOR]</label>
 				<visible>true</visible>
 			</item>
 		</extension>
