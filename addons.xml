@@ -130,7 +130,7 @@
 		</extension>
 		
 	</addon>
-	<addon id="skin.estuary.kodirdil" version="3.0.10" name="Estuary (Kodi + RD Israel)" provider-name="phil65, Ichabod Fletchman">
+	<addon id="skin.estuary" version="3.0.10" name="Estuary" provider-name="phil65, Ichabod Fletchman">
 		<requires>
 			<import addon="xbmc.gui" version="5.16.0"/>
 		</requires>
