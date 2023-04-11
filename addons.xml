@@ -81,8 +81,8 @@
 			<disclaimer lang="en">The author of this addon does not host any of the content which is found and has no affiliation with any of the content providers. This addon simply searches websites for content.</disclaimer>
 			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 			<assets>
-				<icon>resources/media/fen_icon.png</icon>
-				<fanart>resources/media/fen_fanart.png</fanart>
+				<icon>icon.png</icon>
+				<fanart>fanart.png</fanart>
 				<clearlogo>resources/media/fen_clearlogo.png</clearlogo>
 			</assets>
 			<news>INFO: For latest changes see Changelog within Tools of add-on.</news>
