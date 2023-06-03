@@ -114,7 +114,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<assets>
-			<icon>icon.png</icon>
+			<icon>icon.jpg</icon>
 		</assets>
 		<news>
 	[COLOR lavender][B]Order Favourites[/B][/COLOR]
