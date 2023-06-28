@@ -88,6 +88,34 @@
 			<news>INFO: For latest changes see Changelog within Tools of add-on.</news>
 		</extension>
 	</addon>
+	<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.11" provider-name="CocoJoe">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0" />
+			<import addon="script.module.requests" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="lib/default.py">
+			<provides>executable</provides>
+		</extension> 
+		<extension point="xbmc.service" library="lib/service.py" start="startup" />
+		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.addon.metadata">
+			<reuselanguageinvoker>false</reuselanguageinvoker>
+			<summary lang="en">CocoScrapers Module</summary>
+			<description>A module that can be used to provide site scrapers.</description>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+			<forum></forum>
+			<website></website>
+			<source></source>
+			<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.png</fanart>
+				<screenshot></screenshot>
+			</assets>
+			<news></news>
+		</extension>
+	</addon>
 	<addon id="plugin.program.kodirealdebridisrael_connect_fen_services" name="[COLOR orange]חיבור שירותים להרחבת Fen[/COLOR]" version="1.0.1" provider-name="KodiRealDebridIsrael">
 		<extension point="xbmc.python.script" library="main.py"/>
 		<extension point="xbmc.addon.metadata">
@@ -404,26 +432,6 @@
 			<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 		</extension>
 	</addon>
-	<addon id="script.FENtastic.helper" name="FENtastic Helper" version="0.6.8" provider-name="Tikipeter, Ivar Brandt">
-		<requires>
-			<import addon="xbmc.python" version="3.0.0"/>
-		</requires>
-		<extension point="xbmc.python.library" library="resources/lib/default.py"/>
-		<extension point="xbmc.addon.metadata">
-			<news />
-			<platform>all</platform>
-			<license>GPL-2.0-only</license>
-			<forum />
-			<source />
-			<assets>
-				<icon>resources/media/icon.png</icon>
-				<fanart>resources/media/fanart.jpg</fanart>
-			</assets>
-			<description lang="en_GB">FENtastic Helper for the FENtastic Skin.</description>
-			<description lang="en_NZ">FENtastic Helper for the FENtastic Skin.</description>
-			<description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
-		</extension>
-	</addon>
 	<addon id="skin.FENtastic" version="1.0.7" name="FENtastic"
 		provider-name="phil65, Ichabod Fletchman, Ivar Brandt">
 		<requires>
@@ -691,6 +699,26 @@
 			<disclaimer lang="vi_VN">Estuary là giao diện mặc định cho Kodi, loại bỏ nó có thể gây ra sự cố</disclaimer>
 			<disclaimer lang="zh_CN">Estuary 是 Kodi 的默认皮肤，删除它可能导致故障。</disclaimer>
 			<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
+		</extension>
+	</addon>
+	<addon id="script.FENtastic.helper" name="FENtastic Helper" version="0.6.8" provider-name="Tikipeter, Ivar Brandt">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+		</requires>
+		<extension point="xbmc.python.library" library="resources/lib/default.py"/>
+		<extension point="xbmc.addon.metadata">
+			<news />
+			<platform>all</platform>
+			<license>GPL-2.0-only</license>
+			<forum />
+			<source />
+			<assets>
+				<icon>resources/media/icon.png</icon>
+				<fanart>resources/media/fanart.jpg</fanart>
+			</assets>
+			<description lang="en_GB">FENtastic Helper for the FENtastic Skin.</description>
+			<description lang="en_NZ">FENtastic Helper for the FENtastic Skin.</description>
+			<description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
 		</extension>
 	</addon>
 </addons>
