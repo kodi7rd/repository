@@ -128,6 +128,18 @@
 			</news>
 		</extension>
 	</addon>
+	<addon id="plugin.program.kodirealdebridisrael_connect_twilight_services" name="[COLOR orange]חיבור שירותים להרחבת Twilight[/COLOR]" version="1.0.1" provider-name="KodiRealDebridIsrael">
+		<extension point="xbmc.python.script" library="main.py"/>
+		<extension point="xbmc.addon.metadata">
+			<platform>all</platform>
+			<assets>
+				<icon>icon.jpg</icon>
+				<fanart>fanart.png</fanart>
+			</assets>
+			<news>
+			</news>
+		</extension>
+	</addon>
 	<addon id="plugin.program.autocompletion" name="AutoCompletion for virtual keyboard - Hebrew" version="2.1.2" provider-name="Philipp Temminghoff (phil65), sualfred, xulek, finkleandeinhorn">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
