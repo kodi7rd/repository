@@ -1,10 +1,5 @@
 [
  {
-   "bing_translator_name": "already-max-usage-key-for-quota-test",
-   "bing_api_key": "b68c8cdcc5384178ad0e422ac2b1981f",
-   "bing_region": "eastus"
- },
- {
    "bing_translator_name": "darksubsil1-eastus",
    "bing_api_key": "18b8f4d8c8f841a9a7e7c063b0eec6db",
    "bing_region": "eastus"
