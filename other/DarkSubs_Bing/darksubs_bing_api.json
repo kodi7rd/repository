@@ -308,5 +308,160 @@
    "bing_translator_name": "darksubsil2-switzerlandwest",
    "bing_api_key": "c68d1821eec64836aa702f7740ab0418",
    "bing_region": "switzerlandwest"
+ },
+ {
+   "bing_translator_name": "darksubsil3-eastus",
+   "bing_api_key": "a3253c8fce334410bde48fbc65edfbf3",
+   "bing_region": "eastus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-eastus2",
+   "bing_api_key": "042be6e0664a4fb7b04e218f126adfbb",
+   "bing_region": "eastus2"
+ },
+ {
+   "bing_translator_name": "darksubsil3-southcentralus",
+   "bing_api_key": "9353c1592cc9499d9ab067a51ba1e5ac",
+   "bing_region": "southcentralus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-westus2",
+   "bing_api_key": "a869a553f0ba466faf3e562d2f95ca3a",
+   "bing_region": "westus2"
+ },
+ {
+   "bing_translator_name": "darksubsil3-westus3",
+   "bing_api_key": "baeeef688c5d4745b7447049c52236fd",
+   "bing_region": "westus3"
+ },
+ {
+   "bing_translator_name": "darksubsil3-australiaeast",
+   "bing_api_key": "9f998e188c97477eb230f717e631c12e",
+   "bing_region": "australiaeast"
+ },
+ {
+   "bing_translator_name": "darksubsil3-southeastasia",
+   "bing_api_key": "0c24b932b3024d8190404aaf05f22902",
+   "bing_region": "southeastasia"
+ },
+ {
+   "bing_translator_name": "darksubsil3-northeurope",
+   "bing_api_key": "f2a49a40bbe2486eb83fb7a5ddb668c1",
+   "bing_region": "northeurope"
+ },
+ {
+   "bing_translator_name": "darksubsil3-swedencentral",
+   "bing_api_key": "0361027a93b44b18882d101ab5d70070",
+   "bing_region": "swedencentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-uksouth",
+   "bing_api_key": "8f2855019aee45c0bb5d5a19d9ffca13",
+   "bing_region": "uksouth"
+ },
+ {
+   "bing_translator_name": "darksubsil3-westeurope",
+   "bing_api_key": "4db330763ec748bc844dc19c9967d8a8",
+   "bing_region": "westeurope"
+ },
+ {
+   "bing_translator_name": "darksubsil3-centralus",
+   "bing_api_key": "7754f14179e740129fc47b61dcf49943",
+   "bing_region": "centralus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-southafricanorth",
+   "bing_api_key": "f94e82d2498b4e7b9eb403d56afc9988",
+   "bing_region": "southafricanorth"
+ },
+ {
+   "bing_translator_name": "darksubsil3-centralindia",
+   "bing_api_key": "cc5c9911fabe4b5c8f414570782f929a",
+   "bing_region": "centralindia"
+ },
+ {
+   "bing_translator_name": "darksubsil3-eastasia",
+   "bing_api_key": "74875b3c8546417fa84cbb68b170a8fb",
+   "bing_region": "eastasia"
+ },
+ {
+   "bing_translator_name": "darksubsil3-japaneast",
+   "bing_api_key": "c4c99d729ec34acd814fcf9644422976",
+   "bing_region": "japaneast"
+ },
+ {
+   "bing_translator_name": "darksubsil3-koreacentral",
+   "bing_api_key": "1a715fba39ac40b28a97219ed8dc5f20",
+   "bing_region": "koreacentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-canadacentral",
+   "bing_api_key": "7509aa92f1af45a09fc8b5f0fb1b8741",
+   "bing_region": "canadacentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-francecentral",
+   "bing_api_key": "71c6c5f13fff43a2914a2e1ee697e6d6",
+   "bing_region": "francecentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-germanywestcentral",
+   "bing_api_key": "53a44b3d45504f2ba87e3f5985409075",
+   "bing_region": "germanywestcentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-norwayeast",
+   "bing_api_key": "78e2c9f67c774506a89343b1ec9f9c49",
+   "bing_region": "norwayeast"
+ },
+ {
+   "bing_translator_name": "darksubsil3-switzerlandnorth",
+   "bing_api_key": "f8a08fd82fb94cb0b83307f2ff2f2e34",
+   "bing_region": "switzerlandnorth"
+ },
+ {
+   "bing_translator_name": "darksubsil3-uaenorth",
+   "bing_api_key": "4f837b6cbb1d4104817874b79ed99cfd",
+   "bing_region": "uaenorth"
+ },
+ {
+   "bing_translator_name": "darksubsil3-brazilsouth",
+   "bing_api_key": "cfe86113e5744aba869a4f1f77aca5ee",
+   "bing_region": "brazilsouth"
+ },
+ {
+   "bing_translator_name": "darksubsil3-qatarcentral",
+   "bing_api_key": "7c26b83f610441788ccae2ee89191128",
+   "bing_region": "qatarcentral"
+ },
+ {
+   "bing_translator_name": "darksubsil3-global",
+   "bing_api_key": "a56eaf6841194884a09ca6a640ccb40d",
+   "bing_region": "global"
+ },
+ {
+   "bing_translator_name": "darksubsil3-northcentralus",
+   "bing_api_key": "c7c1a98172c34efd8d610dcc87bf0c50",
+   "bing_region": "northcentralus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-westus",
+   "bing_api_key": "3a9a7660a5e94db6bce911a98d759b60",
+   "bing_region": "westus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-westcentralus",
+   "bing_api_key": "e24c557cb90c41e3ac935fcaa3c7e40d",
+   "bing_region": "westcentralus"
+ },
+ {
+   "bing_translator_name": "darksubsil3-japanwest",
+   "bing_api_key": "1ac768b7efe649b5acba62b036097c3f",
+   "bing_region": "japanwest"
+ },
+ {
+   "bing_translator_name": "darksubsil3-switzerlandwest",
+   "bing_api_key": "cdfc6755fe164adb886bd7e36e90ef0f",
+   "bing_region": "switzerlandwest"
  }
 ]
