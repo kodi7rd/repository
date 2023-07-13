@@ -6,4 +6,4 @@ https://kodi7rd.github.io/repository
 
 # Telegram Group
 
-http://bit.ly/kodi7rd
+http://bit.ly/kodi7rd1
