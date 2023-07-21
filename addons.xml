@@ -432,7 +432,7 @@
 			<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 		</extension>
 	</addon>
-	<addon id="skin.fentastic" version="1.0.14" name="FENtastic"
+	<addon id="skin.fentastic" version="1.0.15" name="FENtastic"
 		provider-name="Ivar Brandt">
 		<requires>
 			<import addon="xbmc.gui" version="5.16.0" />
