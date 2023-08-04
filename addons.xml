@@ -404,7 +404,7 @@
 			<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 		</extension>
 	</addon>
-	<addon id="skin.fentastic" version="1.0.15" name="FENtastic"
+	<addon id="skin.fentastic" version="1.0.15m" name="FENtastic"
 		provider-name="Ivar Brandt">
 		<requires>
 			<import addon="xbmc.gui" version="5.16.0" />
@@ -447,7 +447,7 @@
 			<description lang="en_US">FENtastic is a modified version of the default Estuary skin for Kodi Nexus. It is intended for use only with FEN.[CR][CR]See [B]CHANGELOG[/B] located in Skin settings » Extra info for latest changes.</description>
 		</extension>
 	</addon>
-	<addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.14" provider-name="Tikipeter, Ivar Brandt">
+	<addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.14e" provider-name="Tikipeter, Ivar Brandt">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
