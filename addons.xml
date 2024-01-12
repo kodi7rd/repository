@@ -159,7 +159,7 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
-	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.0.6" provider-name="Sbs">
+	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.0.7" provider-name="Sbs">
 	  <requires>
 		
 		<import addon="script.module.requests" version="2.9.1" />
