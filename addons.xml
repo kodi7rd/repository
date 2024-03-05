@@ -17,7 +17,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.video.twilight" name="Twilight" provider-name="Twilight" version="3.2.50">
+	<addon id="plugin.video.twilight" name="Twilight" provider-name="Twilight" version="3.2.51">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.requests" version="2.19.1"/>
@@ -159,7 +159,7 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
-	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.1.3" provider-name="Sbs">
+	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.1.4" provider-name="Sbs">
 	  <requires>
 		
 		<import addon="script.module.requests" version="2.9.1" />
