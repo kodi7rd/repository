@@ -157,7 +157,7 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
-	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.4.2" provider-name="Sbs">
+	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.4.3" provider-name="Sbs">
 	  <requires>
 		
 		<import addon="script.module.requests" version="2.9.1" />
@@ -169,7 +169,7 @@
 	  <extension point="xbmc.addon.metadata">
 		<reuselanguageinvoker>true</reuselanguageinvoker>
 		<summary lang="en">Collect Subs From sites</summary>
-		<description lang="en">Ktuvit, Wizdom, Subscene, OpenSubtitles, BSPlayer</description>
+		<description lang="en">Ktuvit, Wizdom, OpenSubtitles, SubDL, BSPlayer</description>
 		<assets>
 				<icon>icon.png</icon>
 				<fanart>fanart.png</fanart>
@@ -179,7 +179,7 @@
 	  </extension>
 	  <extension point="kodi.context.item" library="check_sub.py">
 			<item>
-				<label>[COLOR yellow][B]חפש כתוביות[/B][/COLOR]</label>
+				<label>[COLOR yellow][B]חפש כתוביות (DarkSubs)[/B][/COLOR]</label>
 				<visible>true</visible>
 			</item>
 		</extension>
