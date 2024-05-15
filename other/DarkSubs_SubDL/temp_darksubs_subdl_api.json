@@ -1,18 +1,18 @@
 [
  {
-   "SUBDL_API_KEY_NAME": "ad_api_key",
+   "SUBDL_API_KEY_NAME": "ad_purple_api_key",
    "SUBDL_API_KEY_VALUE": "5yTV2eCXNWTT9QWNEB5g7lU1bnwQb7BM"
  },
  {
-   "SUBDL_API_KEY_NAME": "lir_api_key",
+   "SUBDL_API_KEY_NAME": "liron_api_key",
    "SUBDL_API_KEY_VALUE": "QFIn3ODFqSCRtgd8gibZ5N1Tb4x30inE"
  },
  {
-   "SUBDL_API_KEY_NAME": "ore_api_key",
+   "SUBDL_API_KEY_NAME": "orel_api_key",
    "SUBDL_API_KEY_VALUE": "oW_PrBxYb7hbB7IaRQv_81WqJq9_vuLV"
  },
  {
-   "SUBDL_API_KEY_NAME": "eli_api_key",
+   "SUBDL_API_KEY_NAME": "elir_api_key",
    "SUBDL_API_KEY_VALUE": "S9qpSv65spRf_H3ls0PdAQTryqefP3n5"
  },
  {
@@ -34,5 +34,21 @@
  {
    "SUBDL_API_KEY_NAME": "random4_api_key",
    "SUBDL_API_KEY_VALUE": "cDhKu1DSlxCsabjBsjYUk9r-XQWbioA7"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "menach_for_api_key",
+   "SUBDL_API_KEY_VALUE": "xMfpZsGMKq-0u7spc4sUa6UOHH2glAVd"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "daniel_blue_api_key",
+   "SUBDL_API_KEY_VALUE": "NL5suiGKADxXXYQ-hT25b8Km5uu-DKSY"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "li_boybamb_api_key",
+   "SUBDL_API_KEY_VALUE": "Ndl_yZdNHQnLh7mzONzqtPJdvLhcx82x"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "gemine_pr_api_key",
+   "SUBDL_API_KEY_VALUE": "AqUYbBDDvycGgiGqtfYZQU6-0FzJIeqA"
  }
 ]
