@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+
 	<addon id="repository.KodiRealDebridIsrael" name="Kodi + Real Debrid Israel Repository" version="1.0.1" provider-name="KodiRealDebridIsrael">
 		<extension point="xbmc.addon.repository" name="Kodi + Real Debrid Israel Repository">
 			<dir>
@@ -17,6 +18,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
+
 	<addon id="plugin.video.twilight" name="Twilight" provider-name="Twilight" version="3.2.60">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
@@ -41,6 +43,7 @@
 			<news>INFO: For latest changes see Changelog within Tools of add-on.</news>
 		</extension>
 	</addon>
+
 	<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.20" provider-name="CocoJoe">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
@@ -69,6 +72,7 @@
 			<news></news>
 		</extension>
 	</addon>
+
 	<addon id="plugin.program.autocompletion" name="AutoCompletion for virtual keyboard (Hebrew)" version="2.1.3" provider-name="Philipp Temminghoff (phil65), sualfred, xulek, finkleandeinhorn">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
@@ -110,6 +114,7 @@
 			</assets>
 		</extension>
 	</addon>
+
 	<addon id="plugin.program.orderfavourites-hebrew" name="סידור מועדפים" version="1.2.1" provider-name="doko">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -157,12 +162,11 @@
 		<platform>all</platform>
 	</extension>
 	</addon>
+
 	<addon id="service.subtitles.All_Subs" name="DarkSubs" version="4.4.4" provider-name="Sbs">
 	  <requires>
-		
 		<import addon="script.module.requests" version="2.9.1" />
 		<import addon="script.module.chardet" />
-		
 	  </requires>
 	  <extension point="xbmc.subtitle.module" library="start.py"  start="startup"></extension>
 	  <extension point="xbmc.service" library="autosub.py"/>
@@ -183,8 +187,8 @@
 				<visible>true</visible>
 			</item>
 		</extension>
-		
 	</addon>
+
 	<addon id="skin.estuary" version="4.0.0" name="Estuary (Kodi + Real Debrid Israel)" provider-name="phil65, Ichabod Fletchman">
 		<requires>
 			<!-- <import addon="xbmc.gui" version="5.17.0"/> -->
@@ -371,6 +375,7 @@
 			<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 		</extension>
 	</addon>
+
 	<addon id="skin.fentastic" version="1.0.24" name="FENtastic"
 		provider-name="Ivar Brandt">
 		<requires>
@@ -404,6 +409,7 @@
 			<description lang="en_US">FENtastic is a modified version of the default Estuary skin for Kodi Nexus. It is intended for use only with FEN.[CR][CR]See [B]CHANGELOG[/B] located in Skin settings » Extra info for latest changes.</description>
 		</extension>
 	</addon>
+
 	<addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.20a" provider-name="Tikipeter, Ivar Brandt">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
@@ -426,4 +432,5 @@
 			<description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
 		</extension>
 	</addon>
+	
 </addons>
