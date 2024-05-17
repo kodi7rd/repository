@@ -50,5 +50,17 @@
  {
    "SUBDL_API_KEY_NAME": "gemine_pr_api_key",
    "SUBDL_API_KEY_VALUE": "AqUYbBDDvycGgiGqtfYZQU6-0FzJIeqA"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "eylon_t_api_key",
+   "SUBDL_API_KEY_VALUE": "Rjs5Hku81wFXYuzx8CNb74oQ3NVg1Vvt"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "miki_api_key",
+   "SUBDL_API_KEY_VALUE": "mjrmjC2nJlbIiaDE10rZ_8mPHN5cbuf8"
+ },
+ {
+   "SUBDL_API_KEY_NAME": "shaha_api_key_FIX",
+   "SUBDL_API_KEY_VALUE": "itaieb8j0FMsFO0ZlAUXXJe1PynOiUF"
  }
 ]
