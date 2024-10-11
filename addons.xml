@@ -19,7 +19,7 @@
 		</extension>
 	</addon>
 
-	<addon id="plugin.video.twilight" name="Twilight" provider-name="Twilight" version="3.2.71">
+	<addon id="plugin.video.twilight" name="Twilight" provider-name="Twilight" version="3.2.72">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.requests" version="2.19.1"/>
@@ -45,7 +45,7 @@
 		</extension>
 	</addon>
 
-	<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.23" provider-name="CocoJoe">
+	<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.24" provider-name="CocoJoe">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0" />
 			<import addon="script.module.requests" />
